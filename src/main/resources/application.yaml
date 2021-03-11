@@ -1,0 +1,8 @@
+uk:
+  co:
+    samwhittaker:
+      demo:
+        discordrest:
+          discordToken: ${DISCORD_TOKEN} #secret so read from environment
+          discordCommandPrefix: '>'
+          activity: Power Ballads
